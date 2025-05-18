@@ -6,7 +6,7 @@ I thrive in collaborative environments and enjoy leading projects that blend cre
 
 ## 🚀 Current Highlights
 
-- 👩‍🏫 *Team Lead* – [Sprep Project](#): An AI-based web app for students featuring quizzes, schedules, and a chatbot.
+- 👩‍🏫 *Team Lead* – Sprep Project: An AI-based web app for students featuring quizzes, schedules, and a chatbot.
 - 🤖 *Insight Bot* – Hackathon-built academic assistant chatbot.
 - 📚 *Book Website Dev* – Genre-specific site focusing on thriller/mystery/suspense books.
 - 💸 *Teen Expense Tracker* – Python tool to promote healthy financial habits.
