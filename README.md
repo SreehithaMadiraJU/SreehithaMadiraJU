@@ -20,9 +20,9 @@ I thrive in collaborative environments and enjoy leading projects that blend cre
 
 ## 🌱 Currently Learning
 
-- Backend Development (server-side scripting, databases, APIs)
-- Data Structures and Algorithms
-- Full-stack Web Dev
+- UI/UX Design and User Experience  
+- AI in Cybersecurity and Secure UI/UX  
+- Image and Video Processing 
 
 ## 📫 Let's Connect!
 📧 masreehi41@gmail.com  
