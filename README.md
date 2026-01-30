@@ -13,8 +13,7 @@ I thrive in collaborative environments and enjoy leading projects that blend cre
 
 ## 🛠 Tech Stack
 
-- *Frontend:* HTML, CSS, JavaScript  
-- *Backend (Learning):* Python, Node.js  
+- *Frontend:* HTML, CSS, JavaScript    
 - *Design:* UI/UX, Wireframing  
 - *Soft Skills:* Leadership, Project Management, Teamwork, Critical Thinking  
 
