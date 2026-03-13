@@ -1,28 +1,34 @@
 # 👩‍💻 Sreehitha Madiraju
 
-Hi there! I'm Sreehitha, a Computer Science Engineering undergrad specializing in Artificial Intelligence and Machine Learning. I’m passionate about combining the power of *design and technology* to build impactful, user-focused applications. ✨
+3rd year CS (AI/ML) undergrad from Hyderabad, building AI-powered tools and
+data-driven applications. I enjoy leading teams, shipping real projects, and
+solving practical problems with tech.
 
-I thrive in collaborative environments and enjoy leading projects that blend creativity with technical problem-solving. From developing *Sprep*, an AI-powered educational platform, to building immersive book websites and smart bots, I love creating intuitive, meaningful tech solutions.
+## 🚀 Projects
 
-## 🚀 Current Highlights
-
-- 👩‍🏫 *Team Lead* – Sprep Project: An AI-based web app for students featuring quizzes, schedules, and a chatbot.
-- 🤖 *Insight Bot* – Hackathon-built academic assistant chatbot.
-- 📚 *Book Website Dev* – Genre-specific site focusing on thriller/mystery/suspense books.
-- 💸 *Teen Expense Tracker* – Python tool to promote healthy financial habits.
+- 🤖 **[ACS Resume Score Tracker](https://acs-tracker-q9ac3vwzs9xkwtrecwx5c3.streamlit.app/)** – AI-assisted resume screening tool using Hugging Face NLP + Streamlit
+- 📚 **[SPrep](https://sreehithamadiraju.github.io/Sprep/signin.html)** – Student learning platform with mock tests, smart planner & AI chatbot
+- 📊 **[Interns Tracker](https://internstracker.streamlit.app/)** – Real-time intern management dashboard built in Python + Streamlit
+- 📖 **[Flipd](https://www.figma.com/design/dis3JaYNTFuUjBESwsgfwo/FLIPD)** – Book discovery app UI/UX prototype (Figma)
 
 ## 🛠 Tech Stack
 
-- *Frontend:* HTML, CSS, JavaScript    
-- *Design:* UI/UX, Wireframing  
-- *Soft Skills:* Leadership, Project Management, Teamwork, Critical Thinking  
+- **Languages:** Python, SQL, C, HTML/CSS/JavaScript
+- **ML/AI:** Hugging Face (NLP), Generative AI tools
+- **Tools:** Streamlit, Power BI, Figma, Canva
 
 ## 🌱 Currently Learning
 
-- UI/UX Design and User Experience  
-- AI in Cybersecurity and Secure UI/UX  
-- Image and Video Processing 
+- Machine Learning & Deep Learning (Krish Naik, CampusX)
+- DSA (daily LeetCode practice)
 
-## 📫 Let's Connect!
-📧 masreehi41@gmail.com  
-📍 Hyderabad, Telangana
+## 🏆 Highlights
+
+- Finalist – AI Hack Days Hackathon, Tech Mahindra
+- Tech Lead Intern – Swecha Hyderabad (May–July 2025)
+- Student Coordinator – AI/ML Tejas Technical Club
+
+## 📫 Let's Connect
+
+📧 masreehi41@gmail.com
+📍 Hyderabad, Telangana
